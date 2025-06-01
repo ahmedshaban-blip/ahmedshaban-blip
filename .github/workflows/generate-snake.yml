@@ -1,33 +1,32 @@
-name: Deploy to GitHub Pages (output branch)
+name: Deploy Flutter Web to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # غيره للفرع اللي تستخدمه
+      - main  # عدل حسب الفرع اللي تستخدمه
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Setup Node.js (if تحتاج build ب node, غير حسب مشروعك)
-      uses: actions/setup-node@v3
+    - name: Setup Flutter
+      uses: subosito/flutter-action@v2
       with:
-        node-version: '16'
+        flutter-version: 'stable'
 
-    - name: Install dependencies (غير حسب مشروعك)
-      run: npm install
+    - name: Install dependencies
+      run: flutter pub get
 
-    - name: Build project (غير حسب مشروعك)
-      run: npm run build
+    - name: Build Flutter Web
+      run: flutter build web --release
 
-    - name: Deploy to GitHub Pages on output branch
+    - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v4
       with:
         github_token: ${{ secrets.GH_PAT }}
-        publish_dir: ./dist
+        publish_dir: build/web
         publish_branch: output
-        keep_files: false
