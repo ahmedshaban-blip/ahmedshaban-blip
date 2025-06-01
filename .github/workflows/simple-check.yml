@@ -1,0 +1,17 @@
+# .github/workflows/simple-check.yml
+name: Simple Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Hello World
+        run: echo "Hello, GitHub Actions are working! 👋"
