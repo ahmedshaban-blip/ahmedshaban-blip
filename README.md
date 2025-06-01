@@ -69,8 +69,7 @@
 
 ---
 
-### 🐍 Activity Snake Animation
-
+## 🐍 Snake Activity Graph
 <p align="center">
-  <img src="https://github.com/ahmedshaban-blip/ahmedshaban-blip/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ahmedshaban-blip/ahmedshaban-blip/output/github-contribution-grid-snake.svg" alt="snake activity" />
 </p>
