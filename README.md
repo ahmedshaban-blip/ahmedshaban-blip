@@ -30,17 +30,17 @@
 - 📫 Reach me at **ahmed.shabaan.dev@gmail.com**  
 - 📁 My Portfolio: [github.com/ahmedshaban-blip](https://github.com/ahmedshaban-blip)  
 - 📝 I share my thoughts at [LinkedIn](https://www.linkedin.com/in/ahmedshaban-dev)  
-- 📄 My Resume: [My CV](https://drive.google.com/drive/folders/1PpTFjwi_ETRawXgFJOisWrxb6Au49Pg-)
+- 📄 My RESUME: [My CV](https://drive.google.com/file/d/1Q_kzda9vAZSYjJ9DeheaJJLG3iYWU3dc/view?usp=drivesdk)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project Name           | Description                                   | Link                                                        |
-|-----------------------|-----------------------------------------------|-------------------------------------------------------------|
-| Scientific Research Discover | Scientific Research Discover mobile app with Flutter | [GitHub](https://github.com/ahmedshaban-blip/scientific_research_discover)  |
-| E-Commerce App          | E-Commerce App mobile app with Flutter       | [GitHub](https://github.com/ahmedshaban-blip/e_commerce_app) |
-| Currency Converter      | Currency Converter mobile app with Flutter   | [GitHub](https://github.com/ahmedshaban-blip/currency_converter) |
+| Project Name              | Description                                   | Link                                                                 |
+|---------------------------|-----------------------------------------------|----------------------------------------------------------------------|
+| E-Commerce Web            | E-Commerce Web with HTML, CSS, JS             | [GitHub](https://github.com/ahmedshaban-blip/E-Commerce-WebSite)     |
+| E-Commerce App            | E-Commerce App mobile app with Flutter        | [GitHub](https://github.com/ahmedshaban-blip/e_commerce_app)         |
+| Currency Converter        | Currency Converter mobile app with Flutter    | [GitHub](https://github.com/ahmedshaban-blip/currency_converter)     |
 
 ---
 
