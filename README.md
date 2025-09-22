@@ -40,7 +40,8 @@
 |---------------------------|-----------------------------------------------|----------------------------------------------------------------------|
 | E-Commerce Web            | E-Commerce Web with HTML, CSS, JS             | [GitHub](https://github.com/ahmedshaban-blip/E-Commerce-WebSite)     |
 | E-Commerce App            | E-Commerce App mobile app with Flutter        | [GitHub](https://github.com/ahmedshaban-blip/e_commerce_app)         |
-| Currency Converter        | Currency Converter mobile app with Flutter    | [GitHub](https://github.com/ahmedshaban-blip/currency_converter)     |
+| E-Learning Web            | E-learning Web With React JS                  | [GitHub](https://github.com/ahmedshaban-blip/E-Learning-WebSite-With-React-JS)|
+| Coffe App                 | Coffe App mobile With Flutter                       | [GitHub](https://github.com/ahmedshaban-blip/CoffeeApplication)|
 
 ---
 
