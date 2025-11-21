@@ -155,7 +155,7 @@ A passionate **Flutter** developer with experience in building cross-platform mo
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄_Download_My_CV-Click_Here-00D9FF?style=for-the-badge)](https://drive.google.com/file/d/1Q_kzda9vAZSYjJ9DeheaJJLG3iYWU3dc/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/📄_Download_My_CV-Click_Here-00D9FF?style=for-the-badge)](https://drive.google.com/file/d/1IA_72gpp6wTCk3qP6N_AXZorJadmoZVH/view?usp=drive_link)
 
 </div>
 
