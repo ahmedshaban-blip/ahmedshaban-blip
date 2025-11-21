@@ -67,10 +67,14 @@ A passionate **Flutter** developer with experience in building cross-platform mo
 
 | 🎨 Project | 📝 Description | 🔗 Link | 💡 Technologies |
 |:-----------|:---------|:---------|:-----------|
-| **E-Commerce Web** | Full-featured E-Commerce website | [📂 GitHub](https://github.com/ahmedshaban-blip/E-Commerce-WebSite) | `HTML` `CSS` `JavaScript` |
 | **E-Commerce App** | Full-featured shopping mobile app | [📂 GitHub](https://github.com/ahmedshaban-blip/e_commerce_app) | `Flutter` `Dart` `Firebase` |
-| **E-Learning Platform** | Interactive educational platform | [📂 GitHub](https://github.com/ahmedshaban-blip/E-Learning-WebSite-With-React-JS) | `React.js` `JavaScript` |
 | **Coffee App** | Coffee ordering app | [📂 GitHub](https://github.com/ahmedshaban-blip/CoffeeApplication) | `Flutter` `UI/UX` |
+| **Movies App** | Full-featured Movies app | [📂 GitHub](https://github.com/ahmedshaban-blip/Flutter_Movies_App) | `Flutter` `Dart` `UI/UX` `Api` |
+| **FlashCardQuizApplication** | Full-featured FlashCardQuizApplication | [📂 GitHub](https://github.com/ahmedshaban-blip/CodeAlpha_FlashCardQuizApplication) | `Flutter` `Dart` `UI/UX` `Cubit` `Animation` |
+| **Scientific_research_discover** | Full-featured scientific_research_discover App | [📂 GitHub](https://github.com/ahmedshaban-blip/scientific_research_discover) | `Flutter` `Dart` `UI/UX` `Cubit` `Api` |
+| **ScanQrCode** | Full-featured ScanQr App | [📂 GitHub](https://github.com/ahmedshaban-blip/scan_qr) | `Flutter` `Dart` `Camera` |
+| **E-Commerce Web** | Full-featured E-Commerce website | [📂 GitHub](https://github.com/ahmedshaban-blip/E-Commerce-WebSite) | `HTML` `CSS` `JavaScript` |
+| **E-Learning Platform** | Interactive educational platform | [📂 GitHub](https://github.com/ahmedshaban-blip/E-Learning-WebSite-With-React-JS) | `React.js` `JavaScript` |
 
 </div>
 
