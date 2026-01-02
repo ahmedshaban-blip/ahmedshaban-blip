@@ -4,7 +4,8 @@
 ### 🚀 A Passionate Front-end and Cross-Platform Developer from Egypt
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=140&lines=%F0%9F%92%BB+Front-End+Developer;%F0%9F%93%B1+Mobile+App+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+Expert;%F0%9F%A6%8B+Flutter+%7C+React+Native+Pro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1800&pause=100&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=140&lines=%F0%9F%92%BB+Front-End+Developer;%F0%9F%93%B1+Mobile+App+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+Expert;%F0%9F%A6%8B+Flutter+%7C+React+Native+Pro" alt="Typing SVG" />
+
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ahmedshaban-blip&color=00D9FF&style=for-the-badge)
 </div>
@@ -26,6 +27,7 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 - 🔄 **State Management**: Efficient state management using **Bloc/Cubit** (Flutter) and **Redux/Context API** (React)
 - 💳 **Payment Integration**: Implementing secure payment gateways in Web and Mobile applications
 - 🌐 **REST APIs**: Working with APIs and connecting with external servers
+
 ### 🎯 Current Goals
 
 - 💼 **Current Focus**: Building cross-platform mobile apps using Flutter
@@ -34,7 +36,7 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 
 📍 **Location**: Egypt 🇪🇬  
 💻 **Specialty**: Flutter Developer  
-✉️ **Contact**: ahmed.shabaan.dev@gmail.com
+✉️ **Contact**: [ahmed.shabaan.dev@gmail.com](mailto:ahmed.shabaan.dev@gmail.com)
 
 ---
 
@@ -78,44 +80,39 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=ahmedshaban-blip&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📊 Profile Overview
-
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=ahmedshaban-blip&data=followers,repositories,stars,commits&theme=radical" />
 </div>
----
-
-## ⏰ This Week I Spent My Time On
 
 <div align="center">
+  <img src="https://ghchart.rshah.org/00D9FF/ahmedshaban-blip" alt="GitHub Contribution Chart" width="100%" />
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ahmedshaban&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&layout=compact&langs_count=6" />
-
+  <br/><br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedshaban-blip&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedshaban-blip&theme=radical" width="49%" />
 </div>
 
 ---
 
-## 💭 Random Quote
+## 🏅 Certifications & Awards
 
 <div align="center">
+  <img src="https://img.shields.io/badge/ITI-Front--End_Track-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bachelor-Computer_Science-00599C?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelance-Top_Rated-6F23FA?style=for-the-badge&logo=upwork&logoColor=white" />
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs&border=true" />
+  
+  <br/>
+  
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical&layout=default&quote=Code%20is%20poetry&author=Anonymous" />
 </div>
 
 ---
