@@ -1,9 +1,9 @@
 <div align="center">
   
 # 👋 Hi, I'm Ahmed Shaban
-### 🚀 A Passionate Flutter Developer from Egypt
+### 🚀 A Passionate Front-end and Cross-Platform Developer from Egypt
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Flutter+Developer+%F0%9F%93%B1;Firebase+Expert+%F0%9F%94%A5;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Clean+Code+Advocate+%E2%9C%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;React.js+%26+Next.js+Expert+%E2%9A%9B%EF%B8%8F;Flutter+%26+React+Native+%F0%9F%A6%8B;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" />
 
 [![](https://visitcount.itsvg.in/api?id=ahmedshaban-blip&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -13,16 +13,19 @@
 
 ## 🎯 About Me
 
-A passionate **Flutter** developer with experience in building cross-platform mobile applications. I specialize in developing attractive user interfaces and smooth user experience using **Dart** and **Flutter Framework**.
+I’m a **Front-End Developer** specializing in **React.js** and **Next.js**, with hands-on experience building responsive, scalable web applications. I also work on cross-platform mobile development using **Flutter** and **React Native**, focusing on delivering clean, user-centric solutions.
+
+I hold a Bachelor’s degree in **Computer Science** from **Minia University** (2025). I completed an intensive training program as a **Front-End** and **Cross-Platform Developer** Trainee at **ITI**, in addition to working as a **Freelance Mobile Developer** in remote, collaborative environments.
 
 ### 🚀 Technical Expertise
 
-- 📱 **Mobile App Development**: Building professional Flutter apps with high performance
-- 🔥 **Firebase Integration**: Experience in integrating apps with Firebase services for Backend
-- 🏗️ **Clean Architecture**: Implementing Clean Architecture and Design Patterns
-- 🔄 **State Management**: Using Bloc/Cubit for efficient app state management
+- 💻 **Web Development**: Building responsive and scalable web applications using **React.js** and **Next.js**
+- 📱 **Mobile App Development**: Creating cross-platform apps with high performance using **Flutter** and **React Native**
+- 🔥 **Backend Integration**: Experience in integrating apps with **Firebase** and **Supabase** services
+- 🏗️ **Clean Architecture**: Implementing Clean Architecture and **Design Patterns** for scalable code
+- 🔄 **State Management**: Efficient state management using **Bloc/Cubit** (Flutter) and **Redux/Context API** (React)
+- 💳 **Payment Integration**: Implementing secure payment gateways in Web and Mobile applications
 - 🌐 **REST APIs**: Working with APIs and connecting with external servers
-
 ### 🎯 Current Goals
 
 - 💼 **Current Focus**: Building cross-platform mobile apps using Flutter
@@ -67,13 +70,15 @@ A passionate **Flutter** developer with experience in building cross-platform mo
 
 | 🎨 Project | 📝 Description | 🔗 Link | 💡 Technologies |
 |:-----------|:---------|:---------|:-----------|
-| **E-Commerce App** | Full-featured shopping mobile app | [📂 GitHub](https://github.com/ahmedshaban-blip/e_commerce_app) | `Flutter` `Dart` `Firebase` |
+| **Enjez Platform (Web)** | Comprehensive Service Booking Platform | [📂 GitHub](https://github.com/ahmedshaban-blip/Enjez) <br> [🌐 Live Demo](https://enjez.vercel.app/) | `React.js` `Tailwind` `Vite` `Payment` |
+| **Enjez Platform (Mobile)** | Service Booking Mobile Application | [📂 GitHub](https://github.com/ahmedshaban-blip/EnjezMobileAppVersion) | `React Native` `JavaScript` `Expo` `Payment` |
+| **E-Commerce Website** | Full-featured E-Commerce website | [📂 GitHub](https://github.com/ahmedshaban-blip/E-Commerce-WebSite) <br> [🌐 Live Demo](https://ahmedshaban-blip.github.io/E-Commerce-WebSite/project%20js%20team/LoginPage/loginPage.html) | `HTML` `CSS` `JS` `Firebase` `Supabase` `Payment` |
+| **E-Commerce App** | Full-featured shopping mobile app | [📂 GitHub](https://github.com/ahmedshaban-blip/e_commerce_app) | `Flutter` `Dart` `Firebase` `Payment` |
 | **Coffee App** | Coffee ordering app | [📂 GitHub](https://github.com/ahmedshaban-blip/CoffeeApplication) | `Flutter` `UI/UX` |
 | **Movies App** | Full-featured Movies app | [📂 GitHub](https://github.com/ahmedshaban-blip/Flutter_Movies_App) | `Flutter` `Dart` `UI/UX` `Api` |
 | **FlashCardQuizApplication** | Full-featured FlashCardQuizApplication | [📂 GitHub](https://github.com/ahmedshaban-blip/CodeAlpha_FlashCardQuizApplication) | `Flutter` `Dart` `UI/UX` `Cubit` `Animation` |
 | **Scientific_research_discover** | Full-featured scientific_research_discover App | [📂 GitHub](https://github.com/ahmedshaban-blip/scientific_research_discover) | `Flutter` `Dart` `UI/UX` `Cubit` `Api` |
 | **ScanQrCode** | Full-featured ScanQr App | [📂 GitHub](https://github.com/ahmedshaban-blip/scan_qr) | `Flutter` `Dart` `Camera` |
-| **E-Commerce Web** | Full-featured E-Commerce website | [📂 GitHub](https://github.com/ahmedshaban-blip/E-Commerce-WebSite) | `HTML` `CSS` `JavaScript` |
 | **E-Learning Platform** | Interactive educational platform | [📂 GitHub](https://github.com/ahmedshaban-blip/E-Learning-WebSite-With-React-JS) | `React.js` `JavaScript` |
 
 </div>
@@ -107,9 +112,16 @@ A passionate **Flutter** developer with experience in building cross-platform mo
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshaban-blip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<a href="https://github.com/ahmedshaban-blip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedshaban-blip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/ahmedshaban-blip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshaban-blip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+</a>
 
 </div>
+
 
 ---
 
