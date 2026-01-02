@@ -3,10 +3,10 @@
 # 👋 Hi, I'm Ahmed Shaban
 ### 🚀 A Passionate Front-end and Cross-Platform Developer from Egypt
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;React.js+%26+Next.js+Expert+%E2%9A%9B%EF%B8%8F;Flutter+%26+React+Native+%F0%9F%A6%8B;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" />
-
-[![](https://visitcount.itsvg.in/api?id=ahmedshaban-blip&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=140&lines=%F0%9F%92%BB+Front-End+Developer;%F0%9F%93%B1+Mobile+App+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+Expert;%F0%9F%A6%8B+Flutter+%7C+React+Native+Pro" alt="Typing SVG" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ahmedshaban-blip&color=00D9FF&style=for-the-badge)
 </div>
 
 ---
@@ -41,25 +41,7 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 ## 💻 Tech Stack & Tools
 
 <div align="center">
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,html,css,js,react,git,github,python,cpp&perline=6" />
 </div>
 
 ---
@@ -108,32 +90,21 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 
 ---
 
-## 📈 Most Used Languages
+## 📊 Profile Overview
 
 <div align="center">
-
-<a href="https://github.com/ahmedshaban-blip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedshaban-blip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/ahmedshaban-blip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshaban-blip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-</a>
-
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ahmedshaban-blip&data=followers,repositories,stars,commits&theme=radical" />
 </div>
-
-
 ---
 
-## 🐍 My Contributions
+## ⏰ This Week I Spent My Time On
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedshaban-blip/ahmedshaban-blip/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedshaban-blip/ahmedshaban-blip/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmedshaban-blip/ahmedshaban-blip/output/github-contribution-grid-snake.svg">
-</picture>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ahmedshaban&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&layout=compact&langs_count=6" />
 
 </div>
 
@@ -177,6 +148,6 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&heght=100&section=footer" width="100%">
 
 </div>
