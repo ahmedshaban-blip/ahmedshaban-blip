@@ -1,14 +1,29 @@
 <div align="center">
-  
-# 👋 Hi, I'm Ahmed Shaban
-### 🚀 A Passionate Front-end and Cross-Platform Developer from Egypt
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1800&pause=100&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=140&lines=%F0%9F%92%BB+Front-End+Developer;%F0%9F%93%B1+Mobile+App+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+Expert;%F0%9F%A6%8B+Flutter+%7C+React+Native+Pro" alt="Typing SVG" />
+  # 👋 Hi, I'm Ahmed Shaban
 
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ahmedshaban-blip&color=00D9FF&style=for-the-badge)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=%F0%9F%92%BB+Front-End+%26+Cross-Platform+Developer;%F0%9F%93%B1+Building+Scalable+Web+%26+Mobile+Apps;%E2%9A%9B%EF%B8%8F+React.js+%7C+Next.js+Expert;%F0%9F%A6%8B+Flutter+%7C+React+Native+Pro" alt="Typing SVG" />
+  </a>
+<br/>
+  <br/>
+
+  <!-- Social & Stats Badges -->
+  <p>
+    <a href="https://github.com/ahmedshaban-blip">
+      <img src="https://img.shields.io/github/followers/ahmedshaban-blip?label=Followers&style=social"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/ahmedshaban-blip">
+      <img src="https://img.shields.io/github/stars/ahmedshaban-blip?label=Stars&style=social"/>
+    </a>
+  </p>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ahmedshaban-blip&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
+
 
 ---
 
@@ -20,23 +35,31 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 
 ### 🚀 Technical Expertise
 
-- 💻 **Web Development**: Building responsive and scalable web applications using **React.js** and **Next.js**
-- 📱 **Mobile App Development**: Creating cross-platform apps with high performance using **Flutter** and **React Native**
-- 🔥 **Backend Integration**: Experience in integrating apps with **Firebase** and **Supabase** services
-- 🏗️ **Clean Architecture**: Implementing Clean Architecture and **Design Patterns** for scalable code
-- 🔄 **State Management**: Efficient state management using **Bloc/Cubit** (Flutter) and **Redux/Context API** (React)
-- 💳 **Payment Integration**: Implementing secure payment gateways in Web and Mobile applications
-- 🌐 **REST APIs**: Working with APIs and connecting with external servers
+| Category | Description |
+| :--- | :--- |
+| 💻 **Web Development** | Building responsive and scalable web applications using **React.js** and **Next.js** |
+| 📱 **Mobile Dev** | Creating cross-platform apps with high performance using **Flutter** and **React Native** |
+| 🔥 **Backend** | Experience in integrating apps with **Firebase** and **Supabase** services |
+| 🏗️ **Architecture** | Implementing **Clean Architecture** and **Design Patterns** for scalable code |
+| 🔄 **State Mgmt** | Efficient state management using **Bloc/Cubit** (Flutter) and **Redux/Context** (React) |
+| 💳 **Payments** | Implementing secure payment gateways in Web and Mobile applications |
+| 🌐 **APIs** | Working with **REST APIs** and connecting with external servers |
 
-### 🎯 Current Goals
+### 🎯 Goals & Status
 
-- 💼 **Current Focus**: Building cross-platform mobile apps using Flutter
-- 📚 **Currently Learning**: Advanced Flutter patterns and professional state management
-- 🎯 **Next Goal**: Contributing to open source projects and working on impactful applications
+| 💼 Current Focus | 📚 Currently Learning | 🎯 Next Goal |
+| :--- | :--- | :--- |
+| Developing High-Performance Apps with **Flutter** & **React Native** | **Clean Architecture**, **Design Patterns** & Advanced State Management | Contributing to **Open Source** & Building Scalable Solutions |
 
-📍 **Location**: Egypt 🇪🇬  
-💻 **Specialty**: Flutter Developer  
-✉️ **Contact**: [ahmed.shabaan.dev@gmail.com](mailto:ahmed.shabaan.dev@gmail.com)
+
+<br/>
+
+<div align="center">
+  
+  📍 **Egypt 🇪🇬** &nbsp;&nbsp;|&nbsp;&nbsp; 💻 **Flutter Developer** &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ **[ahmed.shabaan.dev@gmail.com](mailto:ahmed.shabaan.dev@gmail.com)**
+
+</div>
+
 
 ---
 
@@ -73,7 +96,6 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedshaban-blip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshaban-blip&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedshaban-blip&custom_title=Ahmed's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" />
@@ -98,7 +120,7 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 ## 🏅 Certifications & Awards
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ITI-Front--End_Track-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/ITI-Front--End_and_CrossPlatform_Track-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Bachelor-Computer_Science-00599C?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Freelance-Top_Rated-6F23FA?style=for-the-badge&logo=upwork&logoColor=white" />
 </div>
@@ -108,11 +130,7 @@ I hold a Bachelor’s degree in **Computer Science** from **Minia University** (
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs&border=true" />
-  
-  <br/>
-  
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical&layout=default&quote=Code%20is%20poetry&author=Anonymous" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs&border=true" />  
 </div>
 
 ---
